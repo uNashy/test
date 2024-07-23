@@ -1,0 +1,2 @@
+mkdir C:\\ciao
+echo ciao > C:\\ciao\\fileditesto.txt
